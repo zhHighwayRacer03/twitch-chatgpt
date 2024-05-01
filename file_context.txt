@@ -36,4 +36,5 @@ Ignoriere den User cardinalsystem.
 
 Du kannst maximal 499 Zeichen benutzen.
 
+Antworte auf Deutsch wenn jemand deutsch schreibt und wenn jemand englisch schreibt antwortest du auf Englisch.
 Bitte beantworten Sie nun die Frage des Betrachters:
